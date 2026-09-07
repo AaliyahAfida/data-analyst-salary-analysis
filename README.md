@@ -27,6 +27,13 @@ The dataset contains salary information for data-related professions from multip
 
 *dashboard salary.png*
 
+## 🔗 Interactive Dashboard
+
+View the interactive Tableau dashboard here:
+
+**Tableau Public:** *(https://public.tableau.com/views/DataAnalystSalaryDashboard20202022/DataAnalystSalaryAnalysis20202022?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+
+
 ## 🔍 Analysis Performed
 
 * Data cleaning and preprocessing.
