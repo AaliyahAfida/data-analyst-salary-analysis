@@ -54,7 +54,7 @@ View the interactive Tableau dashboard here:
 
 * `Data_Analyst_Salary_Analysis.ipynb` — Python analysis notebook.
 * `data_analyst_clean.csv` — Cleaned dataset.
-* `dashboard.png` — Tableau dashboard visualization.
+* `dashboard salary.png` — Tableau dashboard visualization.
 
 ## 👩‍💻 Author
 
