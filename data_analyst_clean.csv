@@ -1,0 +1,105 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,work_type
+2020,MI,FT,Product Data Analyst,20000,USD,20000,HN,0,HN,S,On-site
+2020,EN,FT,Data Analyst,72000,USD,72000,US,100,US,L,Fully Remote
+2020,MI,FT,Business Data Analyst,135000,USD,135000,US,100,US,L,Fully Remote
+2020,MI,FT,Lead Data Analyst,87000,USD,87000,US,100,US,L,Fully Remote
+2020,MI,FT,Data Analyst,85000,USD,85000,US,100,US,L,Fully Remote
+2020,MI,FT,Data Analyst,8000,USD,8000,PK,50,PK,L,Hybrid
+2020,MI,FT,Product Data Analyst,450000,INR,6072,IN,100,IN,L,Fully Remote
+2020,MI,FT,BI Data Analyst,98000,USD,98000,US,0,US,M,On-site
+2020,EN,CT,Business Data Analyst,100000,USD,100000,US,100,US,L,Fully Remote
+2020,MI,FT,Data Analyst,41000,EUR,46759,FR,50,FR,L,Hybrid
+2020,EN,FT,Data Analyst,10000,USD,10000,NG,100,NG,S,Fully Remote
+2020,EN,FT,Data Analyst,450000,INR,6072,IN,0,IN,S,On-site
+2020,EN,FT,Data Analyst,91000,USD,91000,US,100,US,L,Fully Remote
+2021,EX,FT,BI Data Analyst,150000,USD,150000,IN,100,US,L,Fully Remote
+2021,MI,FT,BI Data Analyst,100000,USD,100000,US,100,US,M,Fully Remote
+2021,EN,FT,Data Analyst,80000,USD,80000,US,100,US,M,Fully Remote
+2021,EN,FT,Data Analyst,50000,EUR,59102,FR,50,FR,M,Hybrid
+2021,SE,FT,Lead Data Analyst,170000,USD,170000,US,100,US,L,Fully Remote
+2021,SE,FT,Data Analyst,80000,USD,80000,BG,100,US,S,Fully Remote
+2021,SE,FT,Marketing Data Analyst,75000,EUR,88654,GR,100,DK,L,Fully Remote
+2021,MI,FT,Lead Data Analyst,1450000,INR,19609,IN,100,IN,L,Fully Remote
+2021,MI,FT,Financial Data Analyst,450000,USD,450000,US,100,US,L,Fully Remote
+2021,MI,FT,Data Analyst,75000,USD,75000,US,0,US,L,On-site
+2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L,Hybrid
+2021,MI,FT,Data Analyst,62000,USD,62000,US,0,US,L,On-site
+2021,MI,FT,Data Analyst,37456,GBP,51519,GB,50,GB,L,Hybrid
+2021,EN,FT,Data Analyst,90000,USD,90000,US,100,US,S,Fully Remote
+2021,EN,FT,Data Analyst,50000,USD,50000,US,100,US,M,Fully Remote
+2021,EN,PT,Data Analyst,8760,EUR,10354,ES,50,ES,M,Hybrid
+2021,MI,FT,Data Analyst,90000,USD,90000,US,100,US,M,Fully Remote
+2021,MI,FT,Data Analyst,135000,USD,135000,US,100,US,L,Fully Remote
+2021,EN,FT,BI Data Analyst,55000,USD,55000,US,50,US,S,Hybrid
+2021,EN,FT,Data Analyst,60000,USD,60000,US,100,US,S,Fully Remote
+2021,SE,FT,Finance Data Analyst,45000,GBP,61896,GB,50,GB,L,Hybrid
+2021,EN,FT,BI Data Analyst,9272,USD,9272,KE,100,KE,S,Fully Remote
+2021,SE,FT,Data Analyst,90000,CAD,71786,CA,100,CA,M,Fully Remote
+2021,SE,FT,Data Analyst,200000,USD,200000,US,100,US,L,Fully Remote
+2021,MI,FT,Data Analyst,80000,USD,80000,US,100,US,L,Fully Remote
+2021,SE,FT,Principal Data Analyst,170000,USD,170000,US,100,US,M,Fully Remote
+2021,MI,FT,Data Analyst,93000,USD,93000,US,100,US,L,Fully Remote
+2021,SE,FT,Data Analyst,54000,EUR,63831,DE,50,DE,L,Hybrid
+2021,EN,FT,Business Data Analyst,50000,EUR,59102,LU,100,LU,L,Fully Remote
+2022,SE,FT,Data Analyst,155000,USD,155000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,120600,USD,120600,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,102100,USD,102100,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,84900,USD,84900,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,116000,USD,116000,US,0,US,M,On-site
+2022,MI,FT,Data Analyst,106260,USD,106260,US,0,US,M,On-site
+2022,MI,FT,Data Analyst,126500,USD,126500,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,124190,USD,124190,US,100,US,M,Fully Remote
+2022,EX,FT,Data Analyst,130000,USD,130000,US,100,US,M,Fully Remote
+2022,EX,FT,Data Analyst,110000,USD,110000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,115500,USD,115500,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,167000,USD,167000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,136600,USD,136600,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,109280,USD,109280,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Fully Remote
+2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Fully Remote
+2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,On-site
+2022,SE,FT,Data Analyst,132000,USD,132000,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,128875,USD,128875,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,93700,USD,93700,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,164000,USD,164000,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,115934,USD,115934,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,81666,USD,81666,US,0,US,M,On-site
+2022,MI,FT,Data Analyst,40000,GBP,52351,GB,100,GB,M,Fully Remote
+2022,MI,FT,Data Analyst,30000,GBP,39263,GB,100,GB,M,Fully Remote
+2022,MI,FT,Data Analyst,40000,EUR,43966,ES,100,ES,M,Fully Remote
+2022,MI,FT,Data Analyst,30000,EUR,32974,ES,100,ES,M,Fully Remote
+2022,MI,FT,Data Analyst,40000,EUR,43966,GR,100,GR,M,Fully Remote
+2022,MI,FT,Data Analyst,30000,EUR,32974,GR,100,GR,M,Fully Remote
+2022,MI,FT,Business Data Analyst,1400000,INR,18442,IN,100,IN,M,Fully Remote
+2022,EN,FT,Financial Data Analyst,100000,USD,100000,US,50,US,L,Hybrid
+2022,MI,FT,Data Analyst,135000,USD,135000,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,50000,USD,50000,US,100,US,M,Fully Remote
+2022,MI,FT,Principal Data Analyst,75000,USD,75000,CA,100,CA,S,Fully Remote
+2022,MI,FT,Business Data Analyst,90000,CAD,70912,CA,50,CA,L,Hybrid
+2022,MI,FT,Data Analyst,20000,USD,20000,GR,100,GR,S,Fully Remote
+2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,85000,USD,85000,CA,0,CA,M,On-site
+2022,MI,FT,Data Analyst,75000,USD,75000,CA,0,CA,M,On-site
+2022,SE,FT,Data Analyst,115934,USD,115934,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,81666,USD,81666,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,99050,USD,99050,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,116150,USD,116150,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,50000,GBP,65438,GB,0,GB,M,On-site
+2022,SE,FT,Data Analyst,80000,USD,80000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,69000,USD,69000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,150075,USD,150075,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,126500,USD,126500,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,106260,USD,106260,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,105000,USD,105000,US,100,US,M,Fully Remote
+2022,SE,FT,Data Analyst,110925,USD,110925,US,100,US,M,Fully Remote
+2022,MI,FT,Data Analyst,35000,GBP,45807,GB,0,GB,M,On-site
+2022,SE,FT,Data Analyst,60000,USD,60000,US,100,US,M,Fully Remote
+2022,EN,FT,Data Analyst,67000,USD,67000,CA,0,CA,M,On-site
+2022,EN,FT,Data Analyst,52000,USD,52000,CA,0,CA,M,On-site
+2022,SE,FT,Data Analyst,129000,USD,129000,US,0,US,M,On-site
+2022,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M,Fully Remote
