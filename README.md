@@ -25,7 +25,7 @@ The dataset contains salary information for data-related professions from multip
 
 ## 📈 Dashboard Preview
 
-**
+*dashboard salary.png*
 
 ## 🔍 Analysis Performed
 
