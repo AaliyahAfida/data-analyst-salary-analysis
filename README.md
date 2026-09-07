@@ -23,6 +23,9 @@ The analysis focuses on identifying factors associated with salary differences, 
 
 The dataset contains salary information for data-related professions from multiple countries.
 
+## 📈 Dashboard Preview
+
+**
 
 ## 🔍 Analysis Performed
 
